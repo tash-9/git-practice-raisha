@@ -1,6 +1,8 @@
-# Project Title: Git & GitHub Practice
+# Project Title: 
+Git & GitHub Practice
 
-## Your Name: Tasfia Islam Raisha
+## Your Name: 
+Tasfia Islam Raisha
 
 ## What This Project Does
 This project helps me practice version control and learn how to manage a project using Git and GitHub.
